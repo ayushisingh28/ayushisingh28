@@ -3,6 +3,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F5AF0,50:00E5A8,100:4CC9F0&text=Ayushi%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+Developer;React+%7C+Node.js+%7C+AWS;Building+Scalable+Applications🚀"/>
+
+</div>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ayushisingh28&style=for-the-badge&color=blueviolet"/>
+
+</p>
 <!--
 **ayushisingh28/ayushisingh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
