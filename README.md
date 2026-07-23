@@ -28,6 +28,51 @@
 </a>
 
 </p>
+
+💫 A little about me
+🚀 I enjoy building scalable, user-centric applications from idea to deployment.
+💻 I work across the full stack using React, Node.js, Express.js, MongoDB, MySQL, and AWS.
+🤖 I love exploring Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision to solve real-world challenges.
+⚡ I believe great software is built with clean architecture, thoughtful design, and continuous learning.
+🌱 Currently diving deeper into Cloud Computing, System Design, and Distributed Systems.
+🎯 Open to opportunities where I can build impactful products, learn from great engineers, and contribute from day one.
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,react,nextjs,nodejs,express,redux,mongodb,mysql,firebase,aws,docker,git,github,linux,vscode,postman,vite,npm,tensorflow,pytorch,opencv,sklearn&perline=10" />
+</p>
+
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏠 Real Estate Portal | MERN • Razorpay • Google Maps • Authentication |
+| 🔐 eKYC SDK & Authentication | Node.js • AWS • AES-128-GCM • JWT • REST APIs |
+| 🤖 AI Resume Analyzer | Gemini AI • React • Express • MongoDB |
+| 💬 Real-time Code Editor | React • Socket.io • CodeMirror |
+| 📉 Customer Churn Prediction | Machine Learning • Streamlit • Scikit-learn |
+| 🧠 Brain Tumor Detection | Deep Learning • TensorFlow • CNN |
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushisingh28&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushisingh28&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushisingh28&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
 <!--
 **ayushisingh28/ayushisingh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
