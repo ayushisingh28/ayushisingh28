@@ -13,6 +13,21 @@
 <img src="https://komarev.com/ghpvc/?username=ayushisingh28&style=for-the-badge&color=blueviolet"/>
 
 </p>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayushi-singh-215b54228/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:ayushisingh282002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://github.com/ayushisingh28">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</p>
 <!--
 **ayushisingh28/ayushisingh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
