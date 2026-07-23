@@ -29,28 +29,24 @@
 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
+
 <div align="center">
 
-# 🚀 Developer Dashboard
+<h2>⚡ Developer Dashboard</h2>
 
 </div>
 
-```bash
-Initializing...
+```console
+> load_profile()
 
-✔ Name ............ Ayushi Singh
+👩‍💻 Name      :: Ayushi Singh
+🚀 Role      :: Software Engineer
+💻 Stack     :: React • Node.js • Express • MongoDB • AWS
+🤖 AI        :: Machine Learning • Deep Learning • GenAI
+☁️ Learning  :: System Design • Cloud • Distributed Systems
+🎯 Mission   :: Building scalable products with real-world impact
 
-✔ Role ............ Software Engineer
-
-✔ Mode ............ Full Stack Development
-
-✔ AI Engine ....... Active
-
-✔ Cloud ........... Learning
-
-✔ Status .......... Open for Opportunities
-
-System Ready 🚀
+> profile_loaded ✔
 ```
 
 ## 📌 Quick Snapshot
