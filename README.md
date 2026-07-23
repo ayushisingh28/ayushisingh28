@@ -31,19 +31,27 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 <div align="center">
 
-## 💫 About Me
-
-✨ Building scalable web applications & AI-powered solutions
-
-🚀 **Full Stack Developer** • **Software Engineer**
-
-🤖 AI • Machine Learning • Deep Learning • Computer Vision
-
-☁️ Exploring Cloud • System Design • Distributed Systems
-
-💜 *Turning ideas into production-ready software, one commit at a time.*
+# > whoami.exe
 
 </div>
+
+```bash
+Initializing...
+
+✔ Name ............ Ayushi Singh
+
+✔ Role ............ Software Engineer
+
+✔ Mode ............ Full Stack Development
+
+✔ AI Engine ....... Active
+
+✔ Cloud ........... Learning
+
+✔ Status .......... Open for Opportunities
+
+System Ready 🚀
+```
 
 ## 📌 Quick Snapshot
 
