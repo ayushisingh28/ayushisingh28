@@ -30,29 +30,32 @@
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 
+
 <div align="center">
 
-<h2>⚡ DEVELOPER DASHBOARD</h2>
+# ⚡ DEVELOPER DASHBOARD
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00E5A8&center=true&vCenter=true&width=700&lines=%3E+boot();%3E+loading_modules...;%3E+connecting_to_github...;%3E+developer_profile_loaded+%E2%9C%93"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=%24+boot+developer.sh;%24+loading+modules...;%24+initializing+AI+engine...;%24+dashboard+ready+✓"/>
 
 </div>
 
 ```console
-┌──────────────────────────────────────────────────────────────┐
-│ 👩‍💻 Name        :: Ayushi Singh                              │
-│ 🚀 Role        :: Software Engineer                          │
-│ 🎓 University  :: IIIT Bhagalpur                             │
-│ 💼 Experience  :: Software Engineer Intern                   │
-│ 💻 Stack       :: React • Node.js • Express • MongoDB • AWS  │
-│ 🤖 AI          :: Machine Learning • Deep Learning • GenAI   │
-│ ☁️ Learning    :: System Design • Distributed Systems         │
-│ 🎯 Mission     :: Building scalable products with impact     │
-└──────────────────────────────────────────────────────────────┘
+👩‍💻 Name         :: Ayushi Singh
+🚀 Role         :: Software Engineer
+🎓 University   :: IIIT Bhagalpur
+💼 Experience   :: Software Engineer Intern @ Equal
+💻 DSA          :: 700+ Problems Solved
+🛠 Stack        :: React • Node.js • Express • MongoDB • AWS
+🤖 AI           :: Machine Learning • Deep Learning • GenAI
+☁️ Learning     :: System Design • Distributed Systems.
 
-> system_status :: ONLINE 🟢
+
 ```
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=2500&color=7F5AF0&center=true&width=600&lines=%3E+dashboard_loaded+%E2%9C%93;%3E+system_status+ONLINE+%F0%9F%9F%A2;%3E+ready_for_next_challenge..."/>
+
+</div>
 
 ## 🛠 Tech Stack
 
@@ -85,37 +88,24 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
 
 
-## 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-### 🏠 Real Estate Portal
+```yaml
+🏠 Real Estate Portal
+   MERN • Razorpay • Google Maps
 
-`React` `Node.js` `MongoDB` `Razorpay` `Google Maps`
+🤖 AI Resume Analyzer
+   Gemini AI • React • Express
 
-Modern property listing platform with authentication and online payments.
+💬 Real-Time Code Editor
+   React • Socket.io
 
----
+📉 Customer Churn Prediction
+   Machine Learning • FastAPI
 
-### 🤖 AI Resume Analyzer
-
-`Gemini AI` `React` `Express` `MongoDB`
-
-AI-powered resume analysis and interview preparation platform.
-
----
-
-### 💬 Real-Time Code Editor
-
-`React` `Socket.io` `CodeMirror`
-
-Collaborative coding platform supporting multiple users simultaneously.
-
----
-
-### 📉 Customer Churn Prediction
-
-`Machine Learning` `Scikit-Learn` `FastAPI`
-
-Predicts customer churn using trained ML models.
+🧠 Brain Tumor Detection
+   TensorFlow • CNN
+```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 # 📊 GitHub Stats
