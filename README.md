@@ -29,13 +29,19 @@
 
 </p>
 
-💫 A little about me
-🚀 I enjoy building scalable, user-centric applications from idea to deployment.
-💻 I work across the full stack using React, Node.js, Express.js, MongoDB, MySQL, and AWS.
-🤖 I love exploring Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision to solve real-world challenges.
-⚡ I believe great software is built with clean architecture, thoughtful design, and continuous learning.
-🌱 Currently diving deeper into Cloud Computing, System Design, and Distributed Systems.
-🎯 Open to opportunities where I can build impactful products, learn from great engineers, and contribute from day one.
+💫 About Me
+
+👩‍💻 Software Engineer passionate about building scalable web applications and AI-powered products.
+
+🚀 Experienced in React, Node.js, Express.js, MongoDB, MySQL, and AWS.
+
+🤖 Exploring Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+
+☁️ Currently learning System Design, Distributed Systems, and Cloud Architecture.
+
+💡 I enjoy turning ideas into production-ready software with clean code and thoughtful design.
+
+🎯 Open to opportunities where I can learn, contribute, and build products that create real impact.
 
 # 🛠 Tech Stack
 
