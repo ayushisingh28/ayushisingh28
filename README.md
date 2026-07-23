@@ -56,7 +56,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=2500&color=7F5AF0&center=true&width=600&lines=%3E+dashboard_loaded+%E2%9C%93;%3E+system_status+ONLINE+%F0%9F%9F%A2;%3E+ready_for_next_challenge..."/>
 
 </div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 ## 🛠 Tech Stack
 
 ### Languages
@@ -93,7 +93,7 @@
 <div align="center">
 
 <div align="center">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 # 🚀 ACTIVE PROJECTS
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=1200&color=00E5A8&center=true&width=950&lines=%24+git+fetch+projects;%24+analyzing+repositories...;%24+loading+portfolio...;%24+6+repositories+loaded+✓"/>
@@ -122,6 +122,8 @@
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
+
+
 # 📊 GitHub Stats
 
 <p align="center">
