@@ -100,24 +100,27 @@
 
 </div>
 
-```console
-> E-KYC Verification Platform
-  └─ Python • Flask • OpenCV • OCR • Face Recognition • MySQL
 
-> Real Estate Portal
-  └─ React • Node.js • Express • MongoDB • Razorpay • Google Maps
+```yaml
 
-> AI Resume Analyzer & Interview Coach
-  └─ Gemini AI • React • Express • MongoDB • Puppeteer
 
-> Real-Time Collaborative Code Editor
-  └─ React • Socket.io • CodeMirror • Express
+  - name: E-KYC Verification Platform
+    tech: Python • Flask • OpenCV • OCR • Face Recognition • MySQL
 
-> Customer Churn Prediction
-  └─ Python • FastAPI • Scikit-learn • Streamlit
+  - name: Real Estate Portal
+    tech: MERN • Razorpay • Google Maps
 
-> Brain Tumor Detection System
-  └─ TensorFlow • CNN • OpenCV • Python
+  - name: AI Resume Analyzer
+    tech: Gemini AI • React • Express • MongoDB
+
+  - name: Real-Time Code Editor
+    tech: React • Socket.io • CodeMirror
+
+  - name: Customer Churn Prediction
+    tech: Machine Learning • FastAPI • Scikit-learn
+
+  - name: Brain Tumor Detection
+    tech: TensorFlow • CNN • OpenCV
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
