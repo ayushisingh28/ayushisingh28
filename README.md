@@ -102,25 +102,23 @@
 
 
 ```yaml
+- name: E-KYC Verification Platform
+  tech: Python • Flask • OpenCV • OCR • Face Recognition • MySQL
 
+- name: Real Estate Portal
+  tech: MERN • Razorpay • Google Maps
 
-  - name: E-KYC Verification Platform
-    tech: Python • Flask • OpenCV • OCR • Face Recognition • MySQL
+- name: AI Resume Analyzer
+  tech: Gemini AI • React • Express • MongoDB
 
-  - name: Real Estate Portal
-    tech: MERN • Razorpay • Google Maps
+- name: Real-Time Code Editor
+  tech: React • Socket.io • CodeMirror
 
-  - name: AI Resume Analyzer
-    tech: Gemini AI • React • Express • MongoDB
+- name: Customer Churn Prediction
+  tech: Machine Learning • FastAPI • Scikit-learn
 
-  - name: Real-Time Code Editor
-    tech: React • Socket.io • CodeMirror
-
-  - name: Customer Churn Prediction
-    tech: Machine Learning • FastAPI • Scikit-learn
-
-  - name: Brain Tumor Detection
-    tech: TensorFlow • CNN • OpenCV
+- name: Brain Tumor Detection
+  tech: TensorFlow • CNN • OpenCV
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
