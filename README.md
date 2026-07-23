@@ -90,27 +90,34 @@
 
 
 
-# 🚀 PROJECT DASHBOARD
+<div align="center">
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-🏠 Real Estate Portal
-<img src="https://progress-bar.dev/100/?title=Production&color=00E5A8"/>
+# 🚀 ACTIVE PROJECTS
 
-🤖 AI Resume Analyzer
-<img src="https://progress-bar.dev/100/?title=Production&color=00E5A8"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=1200&color=00E5A8&center=true&width=950&lines=%24+git+fetch+projects;%24+analyzing+repositories...;%24+loading+portfolio...;%24+6+repositories+loaded+✓"/>
 
-💬 Real-Time Code Editor
-<img src="https://progress-bar.dev/100/?title=Production&color=00E5A8"/>
+</div>
 
-📉 Customer Churn Prediction
-██████████████████████ 100%
+```console
+[01] 🔐 E-KYC Verification Platform
+     ↳ Python • Flask • OpenCV • OCR • Face Recognition • MySQL
 
-🧠 Brain Tumor Detection
-██████████████████████ 100%
+[02] 🏠 Real Estate Portal
+     ↳ React • Node.js • Express • MongoDB • Razorpay • Google Maps
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[03] 🤖 AI Resume Analyzer & Interview Coach
+     ↳ Gemini AI • React • Express • MongoDB • Puppeteer
+
+[04] 💬 Real-Time Collaborative Code Editor
+     ↳ React • Socket.io • CodeMirror • Express
+
+[05] 📉 Customer Churn Prediction
+     ↳ Python • FastAPI • Scikit-learn • Streamlit
+
+[06] 🧠 Brain Tumor Detection System
+     ↳ TensorFlow • CNN • OpenCV • Python
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
