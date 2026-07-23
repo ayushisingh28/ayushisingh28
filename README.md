@@ -88,23 +88,29 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
 
 
-# 🚀 FEATURED PROJECTS
 
-```yaml
+
+# 🚀 PROJECT DASHBOARD
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🏠 Real Estate Portal
-   MERN • Razorpay • Google Maps
+<img src="https://progress-bar.dev/100/?title=Production&color=00E5A8"/>
 
 🤖 AI Resume Analyzer
-   Gemini AI • React • Express
+<img src="https://progress-bar.dev/100/?title=Production&color=00E5A8"/>
 
 💬 Real-Time Code Editor
-   React • Socket.io
+<img src="https://progress-bar.dev/100/?title=Production&color=00E5A8"/>
 
 📉 Customer Churn Prediction
-   Machine Learning • FastAPI
+██████████████████████ 100%
 
 🧠 Brain Tumor Detection
-   TensorFlow • CNN
+██████████████████████ 100%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
