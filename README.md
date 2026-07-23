@@ -31,7 +31,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 <div align="center">
 
-# > whoami.exe
+# 🚀 Developer Dashboard
 
 </div>
 
