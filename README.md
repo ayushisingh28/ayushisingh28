@@ -32,27 +32,27 @@
 
 <div align="center">
 
-<div align="center">
-
 <h2>⚡ DEVELOPER DASHBOARD</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=999999&color=00E5A8&center=true&vCenter=true&width=500&lines=%3E+boot()%E2%96%88"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00E5A8&center=true&vCenter=true&width=700&lines=%3E+boot();%3E+loading_modules...;%3E+connecting_to_github...;%3E+developer_profile_loaded+%E2%9C%93"/>
 
 </div>
 
 ```console
-👩‍💻 Name        :: Ayushi Singh
-🚀 Role         :: Software Engineer
-🎓 University   :: IIIT Bhagalpur
-💼 Experience   :: Software Engineer Intern
-💻 DSA          :: 700+ Problems Solved
-🛠 Stack        :: React • Node.js • AWS • MongoDB
-🤖 AI           :: Machine Learning • Deep Learning • GenAI
-☁️ Learning     :: System Design • Distributed Systems
-🎯 Mission      :: Building scalable products with real-world impact
+┌──────────────────────────────────────────────────────────────┐
+│ 👩‍💻 Name        :: Ayushi Singh                              │
+│ 🚀 Role        :: Software Engineer                          │
+│ 🎓 University  :: IIIT Bhagalpur                             │
+│ 💼 Experience  :: Software Engineer Intern                   │
+│ 💻 Stack       :: React • Node.js • Express • MongoDB • AWS  │
+│ 🤖 AI          :: Machine Learning • Deep Learning • GenAI   │
+│ ☁️ Learning    :: System Design • Distributed Systems         │
+│ 🎯 Mission     :: Building scalable products with impact     │
+└──────────────────────────────────────────────────────────────┘
 
-> dashboard_loaded ✔
+> system_status :: ONLINE 🟢
 ```
+
 
 ## 🛠 Tech Stack
 
