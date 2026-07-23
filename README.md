@@ -32,22 +32,17 @@
 
 <div align="center">
 
-<h2>⚡ Developer Dashboard</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5A8&center=true&vCenter=true&width=650&lines=%3E+load_profile();%3E+initializing...;%3E+profile_loaded+✓"/>
 
 </div>
 
 ```console
-> load_profile()
-
 👩‍💻 Name      :: Ayushi Singh
 🚀 Role      :: Software Engineer
 💻 Stack     :: React • Node.js • Express • MongoDB • AWS
 🤖 AI        :: Machine Learning • Deep Learning • GenAI
 ☁️ Learning  :: System Design • Cloud • Distributed Systems
 🎯 Mission   :: Building scalable products with real-world impact
-
-> profile_loaded ✔
-```
 
 ## 📌 Quick Snapshot
 
