@@ -65,10 +65,21 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushisingh28&theme=tokyonight"/>
 
 </p>
+# 📈 Contribution Graph
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushisingh28&theme=tokyo-night" /> 
 
+# 🏆 GitHub Trophies
 
+<img src="https://github-profile-trophy.vercel.app/?username=ayushisingh28&theme=algolia&row=2&column=3"/>
+# 💬 Quote
+
+> "First, solve the problem. Then, write the code."
+> <div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
 <!--
 **ayushisingh28/ayushisingh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
