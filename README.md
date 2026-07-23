@@ -28,7 +28,7 @@
 </a>
 
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 ## 💫 About Me
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF1bXR6bmdpNnJtaTRzbTB2djR6bW1nZmVwODJvbG1lNThyYmQzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
@@ -45,25 +45,80 @@
 
 <br clear="right"/>
 
-# 🛠 Tech Stack
+## 📌 Quick Snapshot
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,react,nextjs,nodejs,express,redux,mongodb,mysql,firebase,aws,docker,git,github,linux,vscode,postman,vite,npm,tensorflow,pytorch,opencv,sklearn&perline=10" />
-</p>
+<div align="center">
+
+| 🎓 Education | 💼 Experience | 💻 DSA | 🚀 Focus |
+|-------------|--------------|---------|----------|
+| IIIT Bhagalpur | Software Engineer | 700+ Problems | Full Stack + AI |
+
+</div>
+
+## 🛠 Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+### Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
+
+### AI
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
 
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🏠 Real Estate Portal | MERN • Razorpay • Google Maps • Authentication |
-| 🔐 eKYC SDK & Authentication | Node.js • AWS • AES-128-GCM • JWT • REST APIs |
-| 🤖 AI Resume Analyzer | Gemini AI • React • Express • MongoDB |
-| 💬 Real-time Code Editor | React • Socket.io • CodeMirror |
-| 📉 Customer Churn Prediction | Machine Learning • Streamlit • Scikit-learn |
-| 🧠 Brain Tumor Detection | Deep Learning • TensorFlow • CNN |
+### 🏠 Real Estate Portal
 
+`React` `Node.js` `MongoDB` `Razorpay` `Google Maps`
 
+Modern property listing platform with authentication and online payments.
+
+---
+
+### 🤖 AI Resume Analyzer
+
+`Gemini AI` `React` `Express` `MongoDB`
+
+AI-powered resume analysis and interview preparation platform.
+
+---
+
+### 💬 Real-Time Code Editor
+
+`React` `Socket.io` `CodeMirror`
+
+Collaborative coding platform supporting multiple users simultaneously.
+
+---
+
+### 📉 Customer Churn Prediction
+
+`Machine Learning` `Scikit-Learn` `FastAPI`
+
+Predicts customer churn using trained ML models.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 # 📊 GitHub Stats
 
 <p align="center">
@@ -81,15 +136,17 @@
   <img src="https://github.com/ayushisingh28/ayushisingh28/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
 
 <div align="center">
 
-## ⚡ Keep Learning • Keep Building • Keep Growing ⚡
+# ⭐ Thanks for Visiting ⭐
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=00E5A8&center=true&width=800&lines=Thanks+for+visiting+my+GitHub!;Open+to+collaboration!;Always+building+cool+things..."/>
+### 💜 Let's build something amazing together.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,100:7F5AF0&height=120&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=2000&color=7F5AF0&center=true&width=700&lines=Happy+Coding!;See+you+again!;Open+to+Collaboration+🚀"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:7F5AF0,50:00E5A8,100:4CC9F0"/>
 
 </div>
 <!--
