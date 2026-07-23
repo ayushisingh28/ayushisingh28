@@ -29,19 +29,21 @@
 
 </p>
 
-💫 About Me
+## 💫 About Me
 
-👩‍💻 Software Engineer passionate about building scalable web applications and AI-powered products.
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF1bXR6bmdpNnJtaTRzbTB2djR6bW1nZmVwODJvbG1lNThyYmQzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-🚀 Experienced in React, Node.js, Express.js, MongoDB, MySQL, and AWS.
+👩‍💻 Software Engineer passionate about building scalable web applications.
 
-🤖 Exploring Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+🚀 Building production-ready Full Stack Applications.
 
-☁️ Currently learning System Design, Distributed Systems, and Cloud Architecture.
+🤖 AI • Machine Learning • Deep Learning Enthusiast.
 
-💡 I enjoy turning ideas into production-ready software with clean code and thoughtful design.
+☁️ Exploring AWS, System Design & Distributed Systems.
 
-🎯 Open to opportunities where I can learn, contribute, and build products that create real impact.
+🎯 Looking for opportunities to build impactful products.
+
+<br clear="right"/>
 
 # 🛠 Tech Stack
 
