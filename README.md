@@ -101,23 +101,23 @@
 </div>
 
 ```console
-🔐 E-KYC Verification Platform
-   Python • Flask • OpenCV • OCR • Face Recognition • MySQL
+> E-KYC Verification Platform
+  └─ Python • Flask • OpenCV • OCR • Face Recognition • MySQL
 
-🏠 Real Estate Portal
-   React • Node.js • Express • MongoDB • Razorpay • Google Maps
+> Real Estate Portal
+  └─ React • Node.js • Express • MongoDB • Razorpay • Google Maps
 
-🤖 AI Resume Analyzer & Interview Coach
-   Gemini AI • React • Express • MongoDB • Puppeteer
+> AI Resume Analyzer & Interview Coach
+  └─ Gemini AI • React • Express • MongoDB • Puppeteer
 
-💬 Real-Time Collaborative Code Editor
-   React • Socket.io • CodeMirror • Express
+> Real-Time Collaborative Code Editor
+  └─ React • Socket.io • CodeMirror • Express
 
-📉 Customer Churn Prediction
-   Python • FastAPI • Scikit-learn • Streamlit
+> Customer Churn Prediction
+  └─ Python • FastAPI • Scikit-learn • Streamlit
 
-🧠 Brain Tumor Detection System
-   TensorFlow • CNN • OpenCV • Python
+> Brain Tumor Detection System
+  └─ TensorFlow • CNN • OpenCV • Python
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
