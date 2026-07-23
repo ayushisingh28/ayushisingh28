@@ -1,5 +1,8 @@
-## Hi there 👋
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F5AF0,50:00E5A8,100:4CC9F0&text=Ayushi%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 <!--
 **ayushisingh28/ayushisingh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
