@@ -29,21 +29,21 @@
 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F5AF0,100:00E5A8"/>
+<div align="center">
+
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF1bXR6bmdpNnJtaTRzbTB2djR6bW1nZmVwODJvbG1lNThyYmQzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+✨ Building scalable web applications & AI-powered solutions
 
-👩‍💻 Software Engineer passionate about building scalable web applications.
+🚀 **Full Stack Developer** • **Software Engineer**
 
-🚀 Building production-ready Full Stack Applications.
+🤖 AI • Machine Learning • Deep Learning • Computer Vision
 
-🤖 AI • Machine Learning • Deep Learning Enthusiast.
+☁️ Exploring Cloud • System Design • Distributed Systems
 
-☁️ Exploring AWS, System Design & Distributed Systems.
+💜 *Turning ideas into production-ready software, one commit at a time.*
 
-🎯 Looking for opportunities to build impactful products.
-
-<br clear="right"/>
+</div>
 
 ## 📌 Quick Snapshot
 
