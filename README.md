@@ -43,7 +43,7 @@
 🤖 AI        :: Machine Learning • Deep Learning • GenAI
 ☁️ Learning  :: System Design • Cloud • Distributed Systems
 🎯 Mission   :: Building scalable products with real-world impact
-
+```
 ## 📌 Quick Snapshot
 
 <div align="center">
