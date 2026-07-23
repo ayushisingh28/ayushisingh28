@@ -69,9 +69,7 @@
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushisingh28&theme=tokyo-night" /> 
 
-# 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayushisingh28&theme=algolia&row=2&column=3"/>
 # 💬 Quote
 
 > "First, solve the problem. Then, write the code."
