@@ -65,9 +65,7 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushisingh28&theme=tokyonight"/>
 
 </p>
-# 📈 Contribution Graph
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushisingh28&theme=tokyo-night" /> 
 
 # 🐍 Contribution Snake
 
@@ -75,12 +73,15 @@
   <img src="https://github.com/ayushisingh28/ayushisingh28/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-# 💬 Quote
+---
 
-> "First, solve the problem. Then, write the code."
-> <div align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## ⚡ Keep Learning • Keep Building • Keep Growing ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=00E5A8&center=true&width=800&lines=Thanks+for+visiting+my+GitHub!;Open+to+collaboration!;Always+building+cool+things..."/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,100:7F5AF0&height=120&section=footer"/>
 
 </div>
 <!--
