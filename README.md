@@ -66,8 +66,8 @@
 
 </p>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushisingh28&theme=tokyo-night" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayushisingh28&theme=tokyonight" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushisingh28&theme=tokyo-night" /> 
+
 
 <!--
 **ayushisingh28/ayushisingh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
