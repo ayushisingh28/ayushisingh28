@@ -32,27 +32,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5A8&center=true&vCenter=true&width=650&lines=%3E+load_profile();%3E+initializing...;%3E+profile_loaded+✓"/>
+<div align="center">
+
+<h2>⚡ DEVELOPER DASHBOARD</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=999999&color=00E5A8&center=true&vCenter=true&width=500&lines=%3E+boot()%E2%96%88"/>
 
 </div>
 
 ```console
-👩‍💻 Name      :: Ayushi Singh
-🚀 Role      :: Software Engineer
-💻 Stack     :: React • Node.js • Express • MongoDB • AWS
-🤖 AI        :: Machine Learning • Deep Learning • GenAI
-☁️ Learning  :: System Design • Cloud • Distributed Systems
-🎯 Mission   :: Building scalable products with real-world impact
+👩‍💻 Name        :: Ayushi Singh
+🚀 Role         :: Software Engineer
+🎓 University   :: IIIT Bhagalpur
+💼 Experience   :: Software Engineer Intern
+💻 DSA          :: 700+ Problems Solved
+🛠 Stack        :: React • Node.js • AWS • MongoDB
+🤖 AI           :: Machine Learning • Deep Learning • GenAI
+☁️ Learning     :: System Design • Distributed Systems
+🎯 Mission      :: Building scalable products with real-world impact
+
+> dashboard_loaded ✔
 ```
-## 📌 Quick Snapshot
-
-<div align="center">
-
-| 🎓 Education | 💼 Experience | 💻 DSA | 🚀 Focus |
-|-------------|--------------|---------|----------|
-| IIIT Bhagalpur | Software Engineer | 700+ Problems | Full Stack + AI |
-
-</div>
 
 ## 🛠 Tech Stack
 
